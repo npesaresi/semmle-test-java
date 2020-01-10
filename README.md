@@ -1,0 +1,1 @@
+# semmle-test-java
